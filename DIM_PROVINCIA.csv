@@ -1,0 +1,28 @@
+﻿ID,PROVINCIA,FK_ID_CIUDAD
+1,Cercado,1
+2,Yacuma,1
+3,Mamoré,1
+4,Tomina,2
+5,Nor Citi,2
+6,Yamparaez,2
+7,Cercado,3
+8,Quillacollo,3
+9,Capinota,3
+10,Chapare,3
+11,Ingavi,4
+12,Aroma,4
+13,Larecaja,4
+14,Caranavi,4
+15,Carangas,5
+16,Litoral,5
+17,Abuná,6
+18,Manuripi,6
+19,Charcas,7
+20,Chayanta,7
+21,Tomás Frías,7
+22,Cordillera,8
+23,Warnes,8
+24,Velasco,8
+25,Ichilo,8
+26,Cercado,9
+27,Gran Chaco,9
